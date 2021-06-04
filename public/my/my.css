@@ -1,7 +1,22 @@
 h3 {
     color: #942a9e;
+ 
 }
 
 h1 {
     font-style: italic;
+    font-size: xx-large;
+}
+
+table {
+    margin-top: 20px;
+    border: 2px solid black;
+    border-collapse: collapse;
+    width: 50%;
+}
+
+td, th {
+    border: 1px solid black;
+    padding: 3px;
+    text-align: center;
 }
